@@ -34,7 +34,6 @@
 ### 🚀 Currently working on
 
 - 🔊 **[claude-code-voice](https://github.com/LevenWin/claude-code-voice)** — Claude Code 的语音通知工具，支持本地 Web UI 配置（macOS）
-- 📈 **[daily_stock_analysis](https://github.com/LevenWin/daily_stock_analysis)** — LLM 驱动的 A/H/美股智能分析器
 ### 📦 Featured iOS Components
 
 > 早些年写的开源组件，灵感大多来自微信、网易云、QQ 的细节交互
