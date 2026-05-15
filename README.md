@@ -34,6 +34,8 @@
 ### 🚀 Currently working on
 
 - 🔊 **[claude-code-voice](https://github.com/LevenWin/claude-code-voice)** — Claude Code 的语音通知工具，支持本地 Web UI 配置（macOS）
+- 💡 **[HandsControl-web](https://github.com/LevenWin/HandsControl-web)** — 摄像头手势 + Matter.js 物理引擎驱动的白炽灯拉绳交互（MediaPipe Hands + React 19 + Vite）
+
 ### 📦 Featured iOS Components
 
 > 早些年写的开源组件，灵感大多来自微信、网易云、QQ 的细节交互
