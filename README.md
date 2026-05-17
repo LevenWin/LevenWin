@@ -34,7 +34,7 @@
 ### 🚀 Currently working on
 
 - 🔊 **[claude-code-voice](https://github.com/LevenWin/claude-code-voice)** — Claude Code 的语音通知工具，支持本地 Web UI 配置（macOS）
-- 💡 **[HandsControl-web](https://github.com/LevenWin/HandsControl-web)** — 摄像头手势 + Matter.js 物理引擎驱动的白炽灯拉绳交互（MediaPipe Hands + React 19 + Vite）
+- 💡 **[HandsControl-web](https://github.com/LevenWin/HandsControl-web)** — 摄像头手势 + Matter.js 物理引擎驱动的视觉动效交互（MediaPipe Hands + React 19 + Vite，[在线体验](https://handscontrol-web.pages.dev/)）
 - 🌊 **[DeepDive](https://github.com/LevenWin/DeepDive)** — AI 驱动的概念深度探索工具，
   正文里的关键术语自动高亮成可点击链接，无限钻取并自动构建学习路径树（Vue 3 + 
   DeepSeek，[在线体验](https://deepdive-7d8.pages.dev/)）
